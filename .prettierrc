@@ -1,7 +1,0 @@
-{
-  "arrowParens": "always",
-  "jsxSingleQuote": true,
-  "printWidth": 90,
-  "semi": false,
-  "singleQuote": true
-}
